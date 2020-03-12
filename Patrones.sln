@@ -22,6 +22,9 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Clase", "Clase", "{F851B910-6D8B-4192-B17E-319671F08FAE}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Objeto", "Objeto", "{59ACF148-7799-4043-9A53-8D78794BCA0E}"
+	ProjectSection(SolutionItems) = preProject
+		Mediator\README.md = Mediator\README.md
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Clase y Objeto", "Clase y Objeto", "{CC3614A1-8931-4DE4-8B0E-732BE0CB1B55}"
 EndProject
@@ -66,6 +69,11 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proxy", "Proxy\Proxy.csproj", "{C2E26BDE-ACE3-42B4-8297-74B955C35BA9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flyweight", "Flyweight\Flyweight.csproj", "{393DAF9B-4568-4A8F-9EC6-A04BDA81BAC7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A79089D9-7398-4BA1-BF46-225970B00924}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
